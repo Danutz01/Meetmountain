@@ -1,0 +1,6 @@
+[submodule "meetmountain-app"]
+	path = meetmountain-app
+	url = https://github.com/Danutz01/meetmountain-app.git
+[submodule "mountain-app-frontend"]
+	path = mountain-app-frontend
+	url = https://github.com/Danutz01/mountain-app-frontend.git
